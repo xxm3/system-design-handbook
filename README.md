@@ -1,2 +1,2 @@
 # system-design-handbook
-very basics of system design 
+essentials of distributed systems and system design 
